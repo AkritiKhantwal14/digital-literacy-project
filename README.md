@@ -56,7 +56,7 @@ Digital Literacy Awareness Quiz: https://docs.google.com/forms/d/e/1FAIpQLScILao
 
 Professional LinkedIn: www.linkedin.com/in/akriti-khantwal-503a4b359
 
-Full Project Report: 
+
 
 References
 Platforms: GitHub, LinkedIn, Kaggle, HackerRank, Google Workspace.
